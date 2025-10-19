@@ -1,0 +1,58 @@
+{
+  "sourceLanguage" : "en",
+  "strings" : {
+    "%@, %@ 👋" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "%1$@, %2$@ 👋"
+          }
+        }
+      }
+    },
+    "All birthdays" : {
+      "extractionState" : "manual"
+    },
+    "and enjoy" : {
+      "extractionState" : "manual"
+    },
+    "Break boundaries!" : {
+      "extractionState" : "manual"
+    },
+    "Coming soon 🎉" : {
+      "extractionState" : "manual"
+    },
+    "Congratulate" : {
+      "extractionState" : "manual"
+    },
+    "Create a unique gift card" : {
+      "extractionState" : "manual"
+    },
+    "Get Premium" : {
+      "extractionState" : "manual"
+    },
+    "Hello" : {
+      "extractionState" : "manual"
+    },
+    "See all" : {
+      "extractionState" : "manual"
+    },
+    "Today" : {
+      "extractionState" : "manual"
+    },
+    "Today’s birthdays 🎉" : {
+      "extractionState" : "manual"
+    },
+    "unlimited features!" : {
+      "extractionState" : "manual"
+    },
+    "years" : {
+      "extractionState" : "manual"
+    },
+    "Your birthdays" : {
+      "extractionState" : "manual"
+    }
+  },
+  "version" : "1.1"
+}
